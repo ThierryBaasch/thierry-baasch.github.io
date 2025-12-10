@@ -11,11 +11,6 @@ Hello, my name is Thierry Baasch and I am currently working as an Assistant Prof
 
 In my research I focus on applying analytical and numerical modeling to enhance, optimize, and innovate acoustophoresis and other lab-on-a-chip applications. This is achieved through thorough experimental validation and carefully developed theories. Current projects aim at optimizing the throughput, efficiency, and reproducibility of acoustophoresis chips, as well as gaining additional control of the particle trajectories. His research interests include physical modeling and computational methods, e.g. acoustics, wave-motion, multibody and non-smooth mechanics, control theory, finite-element methods, and machine learning.
 
-I received my Dr. sc. ETH Zürich under the supervision of [Prof. Jürg Dual at ETH Zürich](https://expdyn.ethz.ch/people/professor-juerg-dual.html) 
-
-Thierry's research interests 
-
-A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
